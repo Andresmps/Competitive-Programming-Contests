@@ -1,1 +1,1 @@
-# Competitive-Programming-Contests
+# Competitive-Programming-Contests (Matematikos)
