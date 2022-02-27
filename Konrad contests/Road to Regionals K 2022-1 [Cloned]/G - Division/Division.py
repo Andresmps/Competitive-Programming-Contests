@@ -29,6 +29,4 @@ while True:
 		print(f"There are no solutions for {n}.")
 
 	n = int(input())
-
 	if n != 0: print()
-	
